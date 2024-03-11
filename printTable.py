@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 # that takes a list of lists of strings and displays it in a well-organized table with each column right-justified
 
+# table data to be displayed
 tableData = [['apples', 'oranges', 'cherries', 'banana'],                 
              ['Alice', 'Bob', 'Carol', 'David'],
              ['dogs', 'cats', 'moose', 'goose']]
